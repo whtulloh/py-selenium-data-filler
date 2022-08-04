@@ -1,4 +1,4 @@
-# KM Pro Migration
+# Web Pro Migration
 
 Selenium project using python for web scraping anda data filler
 
@@ -39,7 +39,7 @@ Used to controll migration progress.
 | Group Config setup | In Progress / Pending / Error / Finished |
 
 ## Features
-- tearUpMethod() - method to start up browser and login to KM Pro
+- tearUpMethod() - method to start up browser and login to Web Pro
 - webProCreateTagSet() - method to migrate Tag Set
 - webProUploadFileLibrary() - method to upload File Library
 - webProCreateCategory() - method to migrate Category
