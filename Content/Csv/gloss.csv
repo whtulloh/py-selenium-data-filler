@@ -1,0 +1,45 @@
+definition,pubname,term
+State Earnings Related Pension Scheme,serps,SERPS
+Customer Relationship Management,crm,CRM
+Potentially Vulnerable Customer,pvc,PVC
+Unusual Activity Reporting,uar,UAR
+Additional Voluntary Contributions,avc,AVC
+"A variable-rate mortgage, adjustable-rate mortgage, or tracker mortgage is a mortgage loan with the interest rate on the note periodically adjusted based on an index which reflects the cost to the lender of borrowing on the credit markets.",variable-mortgage,Variable Rate Mortgage
+Balance Transfer - Easy Monthly Installments,bt-emi,BT-EMI
+Credit Card,credit-card,CC
+Annual Percentage Rate ,apr,APR
+The Foreign Account Tax Compliance Act (FATCA),FATCA,FATCA
+"Configuration Item
+An entity within a configuration that satisfies an end use function and that can be
+uniquely identified at a given reference point.",CI_Configuration_Item,CI
+"accordance with the ITSOP-0025 ??? IT Compliance Investigation and CAPA
+Management, a cause of one or more IT Compliance Impacting Incidents.
+An IT Incident with the production environment determined to have Regulatory or
+Compliance impact that is related to nonconformities with any of the following:
+??? Merck Corporate Policy 13.5 - System Development Lifecycle
+Policy (formerly CPOL28).
+??? Information Technology Risk Management & Security requirements
+per Corp Policy #13 ???Information Management and Protection???
+??? Global Privacy and Data Protection requirements incorporated as
+per Corp Policy #13
+??? Domestic and International Regulations (e.g., 21 CFR Part 11,
+SOX, Eudralex Annex 11, and other country based laws and
+regulations)
+??? Product quality or patient safety requirements (e.g., per MMD
+Guidelines)
+??? Regulatory, Statutory, Corporate Policy, or the Corporate Integrity
+Agreement requirements
+??? Data integrity or financial statement accuracy requirements Includes but is not limited to the following:
+- corruption of data, incorrect data, incorrect calculations
+- loss, corruption, or misinterpretation of data shared with other
+systems
+- exposure of private, sensitive, or confidential data to unauthorized
+parties",IT_Compliance_Impacting,IT Compliance Impacting
+"Corrective and Preventive Actions.
+Corrective Actions are actions taken to eliminate the cause(s) of an existing
+Problem, in order to prevent recurrence (of that specific issue).
+Preventive Actions are actions taken to eliminate the cause(s) of a potential
+Problem, in order to prevent occurrence (of similar issues).",CAPA_defined,CAPA
+"DHL (Dalsey, Hillblom and Lynn) International GmbH is an American German courier, parcel, and express mail service which is a division of the German logistics company Deutsche Post DHL. ",DHL,DHL
+"FedEx Corporation is an American multinational delivery services company headquartered in Memphis, Tennessee.",FedEx,FedEx
+My Pluto Portal,My_Pluto_Portal,MOP

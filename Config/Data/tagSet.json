@@ -1,0 +1,114 @@
+{ "data-tags": [
+    { 
+        "tagset": "audience",
+        "data": [
+            {
+                "tag": "private",
+                "name": "Private"
+            },
+            {
+                "tag": "public",
+                "name": "Public"
+            }
+        ]
+    },
+    { 
+        "tagset":"taxonomy-1",
+        "data": [
+            {
+                "tag": "product_creditbuilder",
+                "name": "Credit Cards > Credit Builder"
+            },
+            {
+                "tag": "product_goldrewards",
+                "name": "Credit Cards > Gold Rewards"
+            },
+            {
+                "tag": "product_platinumcashback",
+                "name": "Credit Cards > Platinum Cashback"
+            },
+            {
+                "tag": "product_fixedrate2year",
+                "name": "Mortgages > Fixed Rate 2 Year"
+            },
+            {
+                "tag": "product_fixedrate5year",
+                "name": "Mortgages > Fixed Rate 5 Year"
+            },
+            {
+                "tag": "product_personalloans98k",
+                "name": "Personal Loans"
+            },
+            {
+                "tag": "product_retailbanking",
+                "name": "Retail Banking"
+            },
+            {
+                "tag": "product_isa",
+                "name": "Saving Accounts > ISA"
+            }
+        ]
+    },
+    { 
+        "tagset":"taxonomy-2",
+        "data": [
+            {
+                "tag": "region_africa",
+                "name": "Africa"
+            },
+            {
+                "tag": "region_canada",
+                "name": "Canada"
+            },
+            {
+                "tag": "region_france",
+                "name": "France"
+            },
+            {
+                "tag": "region_mexico",
+                "name": "Mexico"
+            },
+            {
+                "tag": "region_thenetherlands",
+                "name": "Netherlands"
+            },
+            {
+                "tag": "region_northamerica",
+                "name": "North America"
+            },
+            {
+                "tag": "region_northamericapkg",
+                "name": "North America Pkg"
+            },
+            {
+                "tag": "region_spain",
+                "name": "Spain"
+            },
+            {
+                "tag": "region_unitedkingdom",
+                "name": "United Kingdom"
+            }
+        ]
+    },
+    { 
+        "tagset":"taxonomy-3",
+        "data": [
+            {
+                "tag": "complaints",
+                "name": "Complaints"
+            },
+            {
+                "tag": "fraud",
+                "name": "Fraud"
+            },
+            {
+                "tag": "general-inquiry",
+                "name": "General Inquiry"
+            },
+            {
+                "tag": "mortgage",
+                "name": "Mortgages"
+            }
+        ]
+    }
+] }

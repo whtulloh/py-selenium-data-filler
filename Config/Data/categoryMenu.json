@@ -1,0 +1,73 @@
+{ "data-menu": 
+    {
+        "categories": [
+            {
+                "id": "account-management",
+                "name": "Account Management"
+            },
+            {
+                "id": "credit-card",
+                "name": "Credit Card"
+            },
+            {
+                "id": "insurance",
+                "name": "Insurance"
+            },
+            {
+                "id": "lending",
+                "name": "Lending"
+            },
+            {
+                "id": "mortgages",
+                "name": "Mortgages"
+            },
+            {
+                "id": "pension",
+                "name": "Pension"
+            },
+            {
+                "id": "saving",
+                "name": "Savings"
+            }
+        ],
+        
+        "subcategories": [
+            {
+                "id": "change-details",
+                "name": "Change Details"
+            },
+            {
+                "id": "change-pin",
+                "name": "Change PIN"
+            },
+            {
+                "id": "lost-stolen",
+                "name": "Replacement, Lost / Stolen"
+            },
+            {
+                "id": "lost-stolen/lost",
+                "name": "Lost"
+            },
+            {
+                "id": "lost-stolen/replacement",
+                "name": "Replacement"
+            },
+            {
+                "id": "online-login",
+                "name": "Online Login"
+            }
+        ],
+        
+        "all_categories": [
+            "Alerts",
+            "Glossary",
+            "Account Management",
+            "Credit Card",
+            "Insurance",
+            "Lending",
+            "Mortgages",
+            "Pension",
+            "Saving"
+        ]
+    }
+}
